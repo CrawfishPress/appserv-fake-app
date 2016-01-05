@@ -7,3 +7,7 @@ This file is used to list changes made in each version of the appserv-fake-app c
 -----
 - John Crawford - initial commit
 
+1.0.1
+-----
+- John Crawford - testing commit
+
